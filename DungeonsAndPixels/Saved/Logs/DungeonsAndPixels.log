@@ -882,3 +882,198 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.22-06.04.25:115][  0]LogAssetRegistry: Asset discovery search completed in 6.8154 seconds
 [2020.02.22-06.04.25:117][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2020.02.22-06.04.25:349][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.22-06.12.59:894][298]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-06.12.59:897][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.12.59:898][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-06.12.59:898][298]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 21, 2020, 2:12:59 PM)
+[2020.02.22-06.12.59:899][298]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.22-06.12.59:900][298]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.22-06.12.59:900][298]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.22-06.12.59:903][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002666s)
+[2020.02.22-06.12.59:904][298]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.22-06.12.59:904][298]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2020.02.22-06.12.59:904][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003793s)
+[2020.02.22-06.12.59:930][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.22-06.12.59:931][298]LogHMD: Initializing OVRPlugin session
+[2020.02.22-06.13.00:039][298]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.22-06.13.00:039][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.22-06.13.00:039][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.22-06.13.00:039][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.22-06.13.00:039][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.22-06.13.00:039][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.22-06.13.00:039][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.22-06.13.00:039][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.22-06.13.00:039][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.22-06.13.00:040][298]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.22-06.13.00:040][298]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.22-06.13.00:094][298]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.22-06.13.00:094][298]LogAudioMixer: Display: Name: Headset Earphone (2- ASTRO Wireless Transmitter )
+[2020.02.22-06.13.00:094][298]LogAudioMixer: Display: Is Default: Yes
+[2020.02.22-06.13.00:094][298]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.22-06.13.00:094][298]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.22-06.13.00:094][298]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.22-06.13.00:094][298]LogAudioMixer: Display: Channel Order:
+[2020.02.22-06.13.00:094][298]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.22-06.13.00:094][298]LogAudioMixer: Display: 1: FrontRight
+[2020.02.22-06.13.00:105][298]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- ASTRO Wireless Transmitter )
+[2020.02.22-06.13.00:107][298]LogInit: FAudioDevice initialized.
+[2020.02.22-06.13.00:113][298]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.22-06.13.00:115][298]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.02.21-22.13.00
+[2020.02.22-06.13.00:115][298]LogWorld: Bringing up level for play took: 0.000848
+[2020.02.22-06.13.00:115][298]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.22-06.13.00:120][298]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2020.02.22-06.13.00:120][298]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.878
+[2020.02.22-06.13.00:120][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.13.26:964][516]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.13.26:964][516]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.22-06.13.26:984][516]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.22-06.13.26:984][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.13.26:985][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-06.13.26:985][516]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.22-06.13.26:985][516]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.13.26:985][516]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-06.13.26:985][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.22-06.13.26:994][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-06.13.26:995][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.13.26:997][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.22-06.13.27:020][516]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.13.27:022][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-06.13.27:024][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.02.22-06.13.27:069][519]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.22-06.15.09:611][196]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.22-06.15.21:388][240]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-06.15.21:396][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.15.21:396][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-06.15.21:396][240]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 21, 2020, 2:15:21 PM)
+[2020.02.22-06.15.21:396][240]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.22-06.15.21:398][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002293s)
+[2020.02.22-06.15.21:399][240]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.22-06.15.21:399][240]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2020.02.22-06.15.21:399][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003257s)
+[2020.02.22-06.15.21:425][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.22-06.15.21:425][240]LogHMD: Initializing OVRPlugin session
+[2020.02.22-06.15.21:505][240]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.22-06.15.21:506][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.22-06.15.21:506][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.22-06.15.21:506][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.22-06.15.21:506][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.22-06.15.21:506][240]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.22-06.15.21:506][240]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.22-06.15.21:506][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.22-06.15.21:506][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.22-06.15.21:506][240]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.22-06.15.21:506][240]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.22-06.15.21:558][240]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.22-06.15.21:558][240]LogAudioMixer: Display: Name: Headset Earphone (2- ASTRO Wireless Transmitter )
+[2020.02.22-06.15.21:558][240]LogAudioMixer: Display: Is Default: Yes
+[2020.02.22-06.15.21:558][240]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.22-06.15.21:558][240]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.22-06.15.21:558][240]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.22-06.15.21:558][240]LogAudioMixer: Display: Channel Order:
+[2020.02.22-06.15.21:558][240]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.22-06.15.21:558][240]LogAudioMixer: Display: 1: FrontRight
+[2020.02.22-06.15.21:568][240]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- ASTRO Wireless Transmitter )
+[2020.02.22-06.15.21:569][240]LogInit: FAudioDevice initialized.
+[2020.02.22-06.15.21:578][240]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.22-06.15.21:580][240]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.02.21-22.15.21
+[2020.02.22-06.15.21:580][240]LogWorld: Bringing up level for play took: 0.000912
+[2020.02.22-06.15.21:580][240]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.22-06.15.21:582][240]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.34
+[2020.02.22-06.15.21:582][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.16.33:177][824]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.16.33:178][824]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.16.33:178][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.16.33:178][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-06.16.33:178][824]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.22-06.16.33:178][824]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.16.33:178][824]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-06.16.33:178][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.22-06.16.33:184][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-06.16.33:184][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.16.33:187][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.22-06.16.33:211][824]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.16.33:215][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-06.16.33:216][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.02.22-06.16.33:281][830]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.22-06.16.44:921][362]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.02.22-06.16.54:390][478]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.22-06.16.54:397][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.16.54:397][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.22-06.16.54:397][478]PIE: New page: PIE session: 2DSideScrollerExampleMap (Feb 21, 2020, 2:16:54 PM)
+[2020.02.22-06.16.54:397][478]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.22-06.16.54:400][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002396s)
+[2020.02.22-06.16.54:400][478]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.02.22-06.16.54:401][478]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2020.02.22-06.16.54:401][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003300s)
+[2020.02.22-06.16.54:426][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.22-06.16.54:427][478]LogHMD: Initializing OVRPlugin session
+[2020.02.22-06.16.54:507][478]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.02.22-06.16.54:508][478]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.22-06.16.54:508][478]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.22-06.16.54:508][478]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.22-06.16.54:508][478]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.22-06.16.54:508][478]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.22-06.16.54:508][478]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.22-06.16.54:508][478]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.22-06.16.54:508][478]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.22-06.16.54:508][478]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.22-06.16.54:508][478]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.22-06.16.54:559][478]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.22-06.16.54:559][478]LogAudioMixer: Display: Name: Headset Earphone (2- ASTRO Wireless Transmitter )
+[2020.02.22-06.16.54:559][478]LogAudioMixer: Display: Is Default: Yes
+[2020.02.22-06.16.54:559][478]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.22-06.16.54:559][478]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.22-06.16.54:559][478]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.22-06.16.54:559][478]LogAudioMixer: Display: Channel Order:
+[2020.02.22-06.16.54:559][478]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.22-06.16.54:559][478]LogAudioMixer: Display: 1: FrontRight
+[2020.02.22-06.16.54:570][478]LogAudioMixer: Display: Using Audio Device Headset Earphone (2- ASTRO Wireless Transmitter )
+[2020.02.22-06.16.54:571][478]LogInit: FAudioDevice initialized.
+[2020.02.22-06.16.54:578][478]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.02.22-06.16.54:579][478]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.02.21-22.16.54
+[2020.02.22-06.16.54:579][478]LogWorld: Bringing up level for play took: 0.000777
+[2020.02.22-06.16.54:580][478]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.02.22-06.16.54:581][478]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.661
+[2020.02.22-06.16.54:581][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.17.21:239][673]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.17.21:239][673]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.17.21:239][673]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.17.21:239][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-06.17.21:239][673]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.02.22-06.17.21:239][673]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.17.21:239][673]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.22-06.17.21:239][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.22-06.17.21:244][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.22-06.17.21:244][673]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.02.22-06.17.21:247][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.22-06.17.21:271][673]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.22-06.17.21:274][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.22-06.17.21:275][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.02.22-06.17.21:340][679]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.02.22-06.17.26:747][327]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LeftEdge)
+[2020.02.22-06.17.31:619][900]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_27)
+[2020.02.22-06.17.36:662][489]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.02.22-06.17.51:087][163]Cmd: SELECT NONE
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:UpdateAnimation' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:bisMovingRight' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:CameraBoom' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:SideViewCameraComponent' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:279][266]LogMetaData: Removing '/Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2020.02.22-06.22.58:339][266]LogSavePackage: Moving '../../../../../UEtrials/SELF_PROJECTS/DungeonsAndPixelsRepo/DungeonsAndPixels/DungeonsAndPixels/Saved/2DSideScrollerCharacter96EF912746A06BA52842A6B92E7EFBFD.tmp' to '../../../../../UEtrials/SELF_PROJECTS/DungeonsAndPixelsRepo/DungeonsAndPixels/DungeonsAndPixels/Content/2DSideScrollerBP/Character/2DSideScrollerCharacter.uasset'
+[2020.02.22-06.22.58:354][266]LogSavePackage: Moving '../../../../../UEtrials/SELF_PROJECTS/DungeonsAndPixelsRepo/DungeonsAndPixels/DungeonsAndPixels/Saved/2DSideScrollerCharacter9808B7294CDC1BBB9DAE5190DA05BDF0.tmp' to '../../../../../UEtrials/SELF_PROJECTS/DungeonsAndPixelsRepo/DungeonsAndPixels/DungeonsAndPixels/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2020.02.22-06.22.58:386][266]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.22-06.22.58:386][266]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.02.22-06.22.58:386][266]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.02.22-06.22.58:386][266]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.Default__2DSideScrollerCharacter_C
+[2020.02.22-06.22.58:386][266]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C
+[2020.02.22-06.23.43:367][260]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
